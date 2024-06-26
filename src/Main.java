@@ -4,7 +4,6 @@ public class Main {
         public static void main (String[] args){
             Scanner scan = new Scanner(System.in);
 
-
             //Task 1
             System.out.println("Для скачивания мобильного приложения выберите" +
                     "операционную систему вашего смартфона:\n" +
